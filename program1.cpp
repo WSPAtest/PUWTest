@@ -47,6 +47,12 @@ public:
         cout << "Producent to " << n;
         cout << "Generagja samochodu- " << generacja;
         cout << "Model: " << model;
+		
+		void wyswietl2()
+    {
+        cout << "Producent to " << n;
+        cout << "Generagja samochodu- " << generacja;
+        cout << "Model: " << model;
     }
 };
 
