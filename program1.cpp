@@ -32,11 +32,8 @@ class marka:public Samochod_osobowy
 public:
 //jefijwoifjoie
 //ojsefjewjfo
-//efefw
-//wefewf/ew
-//efwf
-//wefwefew
-//afwa/
+///sefse
+//sfees/sef
 //awf
 /afwwf
     string generacja;
