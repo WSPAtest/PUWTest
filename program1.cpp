@@ -36,6 +36,9 @@ public:
 //wefewf/ew
 //efwf
 //wefwefew
+//afwa/
+//awf
+/afwwf
     string generacja;
     string model;
     string n;
