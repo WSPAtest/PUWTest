@@ -30,6 +30,8 @@ public:
 class marka:public Samochod_osobowy
 {
 public:
+//jefijwoifjoie
+//ojsefjewjfo
     string generacja;
     string model;
     string n;
